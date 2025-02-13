@@ -1,12 +1,7 @@
 # Auto proxy
 The purpose of this tool is to anonymize your whole network and avoid DNS leaks
 The script has functions that configuring the files automatically.
-
-
-
-
-#Usage
-
+# Usage
 git clone https://github.com/CyberMafiaPH/autoproxy
 
 cd autoproxy
