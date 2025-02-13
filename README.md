@@ -11,3 +11,4 @@ sudo apt install proxychains4 && sudo apt install tor
 sudo python3 autoproxy.py
 
 proxychains4 firefox https://ifconfig.me
+![pr](https://github.com/user-attachments/assets/8a8f344f-c281-4bcf-867a-b23d788d2c53)
